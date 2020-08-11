@@ -4,10 +4,12 @@ My name is Matthias Schmidtblaicher. I work at [QuantCo](https://www.quantco.com
 
 My dissertation at the EUI, under the supervision of [Peter Hansen](https://sites.google.com/site/peterreinhardhansen/), focused on econometric methods for time series data. I examined inference about present value models and developed models that measure vaccine compliance.
 
+You can download my CV [here](/cv/cv.pdf).
+
 ## Notes
 
-
 2020/08/11: [Problems with tests for conditional accuracy](notes/conditional_accuracy.html).
+
 
 ## Publications
 
