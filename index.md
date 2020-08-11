@@ -8,7 +8,7 @@ You can download my CV [here](/cv/cv.pdf).
 
 ## Notes
 
-2020/08/11: [Problems with tests for conditional accuracy](notes/conditional_accuracy.html).
+2020/08/11: [Problems with tests for conditional expected accuracy](notes/conditional_accuracy.html).
 
 
 ## Publications
