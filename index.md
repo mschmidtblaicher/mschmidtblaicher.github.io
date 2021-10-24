@@ -8,6 +8,8 @@ You can download my CV [here](/cv/cv.pdf).
 
 ## Notes
 
+2020/10/24: [Predicted probabilities are inherently unfair.](notes/Unfair_Probability_Scores.html).
+
 2020/08/11: [Problems with tests for conditional expected accuracy](notes/conditional_accuracy.html).
 
 
