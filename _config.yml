@@ -1,13 +1,17 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+name: Matthias Schmidtblaicher
 title: Matthias Schmidtblaicher
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
-baseurl: "/bay" # the subpath of the site
-url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
+  Personal website of Matthias Schmidtblaicher.
+baseurl: "" # the subpath of the site
+url: "https://mschmidtblaicher.github.io/" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
-google_analytics: "UA-121636368-3"
+google_analytics: ""
+include: ["_pages"]
+disqus: ""
+permalink: /:title/
 
 header:
   pages:
