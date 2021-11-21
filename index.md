@@ -1,6 +1,3 @@
----
-layout: home
----
 Hi,
 
 My name is Matthias Schmidtblaicher. I work at [QuantCo](https://www.quantco.com/), where we develop data-driven algorithms for pricing, forecasting, and claims management.
@@ -24,7 +21,7 @@ Abstract: Increased vaccine hesitancy presents challenges to public health and u
 
 <p align="center">
 <b>Vaccine Compliance and Negative Media Coverage</b>
-<img src="/assets/img/home/jbes.jpg" alt="jbes" width="800">
+<img src="/img/jbes.jpg" alt="jbes" width="800">
 </p>
 
 ### _Resilience of HPV Vaccine Uptake in Denmark: Decline and Recovery, joint with Peter Hansen and Noel Brewer ([Vaccine](https://www.sciencedirect.com/science/article/pii/S0264410X19316615?via%3Dihub), Volume 38, Issue 7, 11 February 2020, Pages 1842-1848)._
@@ -33,7 +30,7 @@ Abstract: Immunization programs’ resilience to shocks is central to their succ
 
 <p align="center">
 <b>Cumulative Missed Opportunities for HPV Vaccine</b>
-<img src="/assets/img/home/vaccine.png" alt="vaccine" width="800">
+<img src="/img/vaccine.png" alt="vaccine" width="800">
 </p>
 
 ## Research in Progress
@@ -44,7 +41,7 @@ I analyse some commonly used bubble detection tests that have been derived from 
 
 <p align="center">
 <b>Type 1 error rates of tests for explosive rate at five percent nominal level</b>
-<img src="/assets/img/home/bubbles.png" alt="bubbles" width="600">
+<img src="/img/bubbles.png" alt="bubbles" width="600">
 </p>
 
 ## Teaching
@@ -64,6 +61,7 @@ I analyse some commonly used bubble detection tests that have been derived from 
 - International Economics, Spring 2013 (Instructor Huub Meijers).
 - Quantitative Methods 2, Winter 2013 (Instructor Christian Kerckhoffs).
 - Microeconomics, Fall 2012  (Instructor Christian Kerckhoffs).
+
 
 
 
