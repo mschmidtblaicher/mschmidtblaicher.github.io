@@ -8,14 +8,16 @@ You can download my CV [here](/cv/cv.pdf).
 
 ## Notes
 
-2020/10/24: [Predicted probabilities are inherently unfair.](notes/Unfair_Probability_Scores.html).
+2022/03/06: [Benign overfit in ridgeless regression.](notes/RidgelessRegression.html).
+
+2021/10/24: [Predicted probabilities are inherently unfair.](notes/Unfair_Probability_Scores.html).
 
 2020/08/11: [Problems with tests for conditional expected accuracy](notes/conditional_accuracy.html).
 
 
 ## Publications
 
-### _A Dynamic Model of Vaccine Compliance: How Fake News Undermined the Danish HPV Vaccine Program, joint with Peter Hansen (Journal of Business and Economic Statistics, [in press](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1080%2F07350015.2019.1623045&sa=D&sntz=1&usg=AFQjCNG5wGscMOSC9uecehIBd9_fej14jA))_.
+### _A Dynamic Model of Vaccine Compliance: How Fake News Undermined the Danish HPV Vaccine Program, joint with Peter Hansen ([Journal of Business and Economic Statistics](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1080%2F07350015.2019.1623045&sa=D&sntz=1&usg=AFQjCNG5wGscMOSC9uecehIBd9_fej14jA)), Volume 39, Issue 1, 2021, Pages 259-271._
 
 Abstract: Increased vaccine hesitancy presents challenges to public health and undermines efforts to eradicate diseases such as measles, rubella, and polio. The decline is partly attributed to misconceptions that are shared on social media, such as the debunked association between vaccines and autism. Perhaps, more damaging to vaccine uptake are cases where trusted mainstream media run stories that exaggerate the risks associated with vaccines. It is important to understand the underlying causes of vaccine refusal, because these may be prevented, or countered, in a timely manner by educational campaigns. In this paper, we develop a dynamic model of vaccine compliance that can help pinpoint events that disrupted vaccine compliance. We apply the framework to Danish HPV vaccine data, which experienced a sharp decline in compliance following the broadcast of a controversial TV documentary, and we show that media coverage significantly predicts vaccine uptake. 
 
