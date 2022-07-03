@@ -1,10 +1,10 @@
 Hi,
 
-My name is Matthias Schmidtblaicher. I work at [QuantCo](https://www.quantco.com/), where we develop data-driven algorithms for pricing, forecasting, and claims management.
+My name is Matthias Schmidtblaicher. I work at [QuantCo](https://www.quantco.com/), where we develop algorithms for pricing, forecasting, and claims management. 
 
 My dissertation at the EUI, under the supervision of [Peter Hansen](https://sites.google.com/site/peterreinhardhansen/), focused on econometric methods for time series data. I examined inference about present value models and developed models that measure vaccine compliance.
 
-You can download my CV [here](/cv/cv.pdf).
+Infrequently, I add notes about results in statistics or economics that catch my attention here. You can also find information about my academic activities. My CV can be downloaded [here](/cv/cv.pdf).
 
 ## Notes
 
@@ -35,7 +35,7 @@ Abstract: Immunization programs’ resilience to shocks is central to their succ
 <img src="/img/vaccine.png" alt="vaccine" width="800">
 </p>
 
-## Research in Progress
+## Unpublished (for now) Research 
 
 ### _How to Test for Bubbles_
 
