@@ -7,11 +7,11 @@ Here are a few things that I've enjoyed working on:
 - Building and deploying a pricing algorithm for a multi-billion annual revenue product.
 - Leading a data science team for a large-scale migration that was completed on time with perfect precision.
 - Contributing to a fast and user-friendly [open-source GLM package](https://github.com/Quantco/glum).
-- Creating the [first high-frequency model of vaccine compliance](https://www.tandfonline.com/doi/full/10.1080/07350015.2019.1623045) and using it to assess the harmful effects of fake news, together with an amazing [supervisor/coauthor](https://reinhardhansen.github.io/).
+- Creating the [first high-frequency model of vaccine compliance](https://www.tandfonline.com/doi/full/10.1080/07350015.2019.1623045) and using it to assess the harmful effects of fake news.
 
 You can access my CV by following [this link](/cv/cv.pdf), which also contains my contact information. For information about working at QuantCo, please visit our [Notion site](https://quantco.notion.site/Job-Opportunities-at-QuantCo-7443e41846d14bb9bd1dc84743b629d0).
 
-I occasionaly add notes about interesting things in statistics or economics here. You can also find information about my previous academic activities. 
+I occasionaly add notes about interesting things in statistics or economics here. You can also find information about my previous academic activities with the amazing [Peter Hansen](https://reinhardhansen.github.io/).
 
 ## Posts
 
