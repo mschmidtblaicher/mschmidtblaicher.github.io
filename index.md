@@ -5,7 +5,7 @@ My name is Matthias Schmidtblaicher. I work at [QuantCo](https://www.quantco.com
 Here are a few things that I've enjoyed working on:
 
 - Building and deploying a pricing algorithm for a multi-billion annual revenue product.
-- Leading a data science team for a large-scale migration that was completed on time with perfect precision.
+- Leading a data science team for a large-scale migration project.
 - Contributing to a fast and user-friendly [open-source GLM package](https://github.com/Quantco/glum).
 - Creating the [first high-frequency model of vaccine compliance](https://www.tandfonline.com/doi/full/10.1080/07350015.2019.1623045) and using it to assess the harmful effects of fake news.
 
