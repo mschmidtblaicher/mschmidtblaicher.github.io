@@ -7,7 +7,7 @@ Here are a few things that I've enjoyed working on:
 - Building and deploying a pricing algorithm for a multi-billion annual revenue product.
 - Leading a data science team for a large-scale migration that was completed on time with perfect precision.
 - Contributing to a fast and user-friendly [open-source GLM package](https://github.com/Quantco/glum).
-- Creating the [first high-frequency model of vaccine compliance](https://www.tandfonline.com/doi/full/10.1080/07350015.2019.1623045) and using this to assess the harmful effects of fake news.
+- Creating the [first high-frequency model of vaccine compliance](https://www.tandfonline.com/doi/full/10.1080/07350015.2019.1623045) and using it to assess the harmful effects of fake news, together with an amazing [supervisor/coauthor](https://reinhardhansen.github.io/).
 
 You can access my CV by following [this link](/cv/cv.pdf), which also contains my contact information. For information about working at QuantCo, please visit our [Notion site](https://quantco.notion.site/Job-Opportunities-at-QuantCo-7443e41846d14bb9bd1dc84743b629d0).
 
@@ -26,7 +26,7 @@ I occasionaly add notes about interesting things in statistics or economics here
 
 ## Publications
 
-### _A Dynamic Model of Vaccine Compliance: How Fake News Undermined the Danish HPV Vaccine Program, joint with [Peter Hansen](https://sites.google.com/site/peterreinhardhansen/) ([Journal of Business and Economic Statistics](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1080%2F07350015.2019.1623045&sa=D&sntz=1&usg=AFQjCNG5wGscMOSC9uecehIBd9_fej14jA), Volume 39, Issue 1, 2021, Pages 259-271)._
+### _A Dynamic Model of Vaccine Compliance: How Fake News Undermined the Danish HPV Vaccine Program, joint with Peter Hansen ([Journal of Business and Economic Statistics](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1080%2F07350015.2019.1623045&sa=D&sntz=1&usg=AFQjCNG5wGscMOSC9uecehIBd9_fej14jA), Volume 39, Issue 1, 2021, Pages 259-271)._
 
 _Abstract_: Increased vaccine hesitancy presents challenges to public health and undermines efforts to eradicate diseases such as measles, rubella, and polio. The decline is partly attributed to misconceptions that are shared on social media, such as the debunked association between vaccines and autism. Perhaps, more damaging to vaccine uptake are cases where trusted mainstream media run stories that exaggerate the risks associated with vaccines. It is important to understand the underlying causes of vaccine refusal, because these may be prevented, or countered, in a timely manner by educational campaigns. In this paper, we develop a dynamic model of vaccine compliance that can help pinpoint events that disrupted vaccine compliance. We apply the framework to Danish HPV vaccine data, which experienced a sharp decline in compliance following the broadcast of a controversial TV documentary, and we show that media coverage significantly predicts vaccine uptake. 
 
