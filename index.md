@@ -1,14 +1,21 @@
 Hi,
 
-My name is Matthias Schmidtblaicher. I work at [QuantCo](https://www.quantco.com/), where we develop algorithms for pricing, forecasting, claims management, and medical diagnosis. 
+My name is Matthias Schmidtblaicher. I work at [QuantCo](https://www.quantco.com/). I received my PhD in economics in 2020 from the [EUI](https://www.eui.eu/en/academic-units/department-of-economics), where I was awarded the Vilfredo Pareto prize for best dissertation.
 
-I received my PhD in economics in 2020 from the [EUI](https://www.eui.eu/en/academic-units/department-of-economics), where I was awarded the Vilfredo Pareto prize for best dissertation. In it, under the supervision of [Peter Hansen](https://sites.google.com/site/peterreinhardhansen/), I examined inference about present value relationships and developed models that measure vaccine compliance.
+Here are a few things that I've enjoyed working on:
 
-Please follow [this link](/cv/cv.pdf) to access my CV. It also contains my contact information. For information on working at QuantCo, please check our [Notion site](https://quantco.notion.site/Job-Opportunities-at-QuantCo-7443e41846d14bb9bd1dc84743b629d0).
+- Building and deploying a pricing algorithm for a multi-billion annual revenue product.
+- Leading a data science team for a large-scale migration that was completed on time with perfect precision.
+- Contributing to a fast and user-friendly [open-source GLM package](https://github.com/Quantco/glum).
+- Creating the [first high-frequency model of vaccine compliance](https://www.tandfonline.com/doi/full/10.1080/07350015.2019.1623045) and using this to assess the harmful effects of fake news.
 
-Infrequently, I add notes about results in statistics or economics that catch my attention here. Below, you can also find information about my somewhat dated academic activities. 
+You can access my CV by following [this link](/cv/cv.pdf), which also contains my contact information. For information about working at QuantCo, please visit our [Notion site](https://quantco.notion.site/Job-Opportunities-at-QuantCo-7443e41846d14bb9bd1dc84743b629d0).
 
-## Notes
+I occasionaly add notes about interesting things in statistics or economics here. You can also find information about my previous academic activities. 
+
+## Posts
+
+2024/06/09: [High-performance and user-friendly GLMs with glum 3](https://tech.quantco.com/blog/glum-v3).
 
 2022/03/06: [Benign overfit in ridgeless regression](notes/RidgelessRegression.html).
 
@@ -19,7 +26,7 @@ Infrequently, I add notes about results in statistics or economics that catch my
 
 ## Publications
 
-### _A Dynamic Model of Vaccine Compliance: How Fake News Undermined the Danish HPV Vaccine Program, joint with Peter Hansen ([Journal of Business and Economic Statistics](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1080%2F07350015.2019.1623045&sa=D&sntz=1&usg=AFQjCNG5wGscMOSC9uecehIBd9_fej14jA), Volume 39, Issue 1, 2021, Pages 259-271)._
+### _A Dynamic Model of Vaccine Compliance: How Fake News Undermined the Danish HPV Vaccine Program, joint with [Peter Hansen](https://sites.google.com/site/peterreinhardhansen/) ([Journal of Business and Economic Statistics](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1080%2F07350015.2019.1623045&sa=D&sntz=1&usg=AFQjCNG5wGscMOSC9uecehIBd9_fej14jA), Volume 39, Issue 1, 2021, Pages 259-271)._
 
 _Abstract_: Increased vaccine hesitancy presents challenges to public health and undermines efforts to eradicate diseases such as measles, rubella, and polio. The decline is partly attributed to misconceptions that are shared on social media, such as the debunked association between vaccines and autism. Perhaps, more damaging to vaccine uptake are cases where trusted mainstream media run stories that exaggerate the risks associated with vaccines. It is important to understand the underlying causes of vaccine refusal, because these may be prevented, or countered, in a timely manner by educational campaigns. In this paper, we develop a dynamic model of vaccine compliance that can help pinpoint events that disrupted vaccine compliance. We apply the framework to Danish HPV vaccine data, which experienced a sharp decline in compliance following the broadcast of a controversial TV documentary, and we show that media coverage significantly predicts vaccine uptake. 
 
