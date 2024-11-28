@@ -11,9 +11,11 @@ Here are a few things that I've enjoyed working on:
 
 You can access my CV by following [this link](/cv/cv.pdf), which also contains my contact information. For information about working at QuantCo, please visit our [Notion site](https://quantco.notion.site/Job-Opportunities-at-QuantCo-7443e41846d14bb9bd1dc84743b629d0).
 
-I occasionaly add notes about interesting things in statistics or economics here. You can also find information about my previous academic activities with the amazing [Peter Hansen](https://reinhardhansen.github.io/).
+I occasionally add notes about interesting things in statistics, economics, or software here. You can also find information about my previous academic activities with the amazing [Peter Hansen](https://reinhardhansen.github.io/).
 
 ## Posts
+
+2024/11/06: [Turning a Cox Proportional Hazards Model into a GLM](https://glum.readthedocs.io/en/latest/tutorials/cox_model/cox_model.html).
 
 2024/06/09: [High-performance and user-friendly GLMs with glum 3](https://tech.quantco.com/blog/glum-v3).
 
