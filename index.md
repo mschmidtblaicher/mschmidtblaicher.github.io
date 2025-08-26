@@ -11,7 +11,9 @@ Here are a few things that I've enjoyed working on:
 
 You can access my CV by following [this link](/cv/cv.pdf), which also contains my contact information. For information about working at QuantCo, please visit our [Notion site](https://quantco.notion.site/Job-Opportunities-at-QuantCo-7443e41846d14bb9bd1dc84743b629d0).
 
-I occasionally add notes about interesting things in statistics, economics, or software here. You can also find information about my previous academic activities with the amazing [Peter Hansen](https://reinhardhansen.github.io/).
+I occasionally add notes about interesting things in statistics, economics, or software here. Below, you can also find information about my previous academic activities with the amazing [Peter Hansen](https://reinhardhansen.github.io/). 
+
+You can contact me via email to the title of this page at gmail dot com.
 
 ## Posts
 
