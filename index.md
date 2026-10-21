@@ -1,17 +1,17 @@
 Hi,
 
-My name is Matthias Schmidtblaicher. I work at [QuantCo](https://www.quantco.com/). I received my PhD in economics in 2020 from the [EUI](https://www.eui.eu/en/academic-units/department-of-economics), where I was awarded the Vilfredo Pareto prize for best dissertation.
+My name is Matthias Schmidtblaicher. I work at [QuantCo](https://www.quantco.com/). I received my PhD in economics in 2020 from the [EUI](https://www.eui.eu/en/academic-units/department-of-economics) and the Vilfredo Pareto Prize for best dissertation in 2021. Previously, I was a scholar of the German Academic Scholarship Foundation.
 
 Here are a few things that I've enjoyed working on:
 
-- Building and deploying a pricing algorithm for a multi-billion annual revenue product.
+- Building and deploying a pricing algorithm for a product generating several billion euros in annual revenue.
 - Leading a data science team for a large-scale migration project.
 - Contributing to a fast and user-friendly [open-source GLM package](https://github.com/Quantco/glum).
 - Creating the [first high-frequency model of vaccine compliance](https://www.tandfonline.com/doi/full/10.1080/07350015.2019.1623045) and using it to assess the harmful effects of fake news.
 
 For information about working at QuantCo, please visit our [Notion site](https://quantco.notion.site/Job-Opportunities-at-QuantCo-7443e41846d14bb9bd1dc84743b629d0).
 
-I occasionally add notes about interesting things in statistics, economics, or software here. Below, you can also find information about my previous academic activities with the amazing [Peter Hansen](https://reinhardhansen.github.io/). 
+I occasionally add notes about interesting things in statistics, economics, or software here. Below, you can also find information about my academic work with the amazing [Peter Hansen](https://reinhardhansen.github.io/).
 
 ## Contact
 
