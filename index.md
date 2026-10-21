@@ -9,11 +9,42 @@ Here are a few things that I've enjoyed working on:
 - Contributing to a fast and user-friendly [open-source GLM package](https://github.com/Quantco/glum).
 - Creating the [first high-frequency model of vaccine compliance](https://www.tandfonline.com/doi/full/10.1080/07350015.2019.1623045) and using it to assess the harmful effects of fake news.
 
-You can access my CV by following [this link](/cv/cv.pdf), which also contains my contact information. For information about working at QuantCo, please visit our [Notion site](https://quantco.notion.site/Job-Opportunities-at-QuantCo-7443e41846d14bb9bd1dc84743b629d0).
+For information about working at QuantCo, please visit our [Notion site](https://quantco.notion.site/Job-Opportunities-at-QuantCo-7443e41846d14bb9bd1dc84743b629d0).
 
 I occasionally add notes about interesting things in statistics, economics, or software here. Below, you can also find information about my previous academic activities with the amazing [Peter Hansen](https://reinhardhansen.github.io/). 
 
-You can contact me via email to the title of this page at gmail dot com.
+## Contact
+
+<style>
+  .email-reveal { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5em; }
+  .email-reveal button, .email-reveal a.email-reveal__open {
+    font: inherit; font-size: 0.9em; padding: 0.2em 0.7em; cursor: pointer;
+    border: 1px solid currentColor; border-radius: 4px; background: transparent; color: inherit; text-decoration: none;
+  }
+  .email-reveal button:focus-visible, .email-reveal a:focus-visible { outline: 2px solid #1f6feb; outline-offset: 2px; }
+  .email-reveal__address { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  .email-reveal__address.is-scrambling { opacity: 0.75; }
+  .email-reveal__actions { display: inline-flex; gap: 0.5em; }
+  .email-reveal [hidden] { display: none; }
+  .visually-hidden {
+    position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+    overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
+  }
+</style>
+
+<div class="email-reveal" hidden>
+  <button type="button" class="email-reveal__trigger" aria-expanded="false" aria-controls="email-reveal-result">Reveal my email</button>
+  <span id="email-reveal-result">
+    <span class="email-reveal__address" hidden></span>
+    <span class="email-reveal__actions" hidden>
+      <button type="button" class="email-reveal__copy">Copy</button>
+      <a class="email-reveal__open" href="#">Open email</a>
+    </span>
+  </span>
+  <span class="email-reveal__status visually-hidden" role="status" aria-live="polite"></span>
+</div>
+<noscript>Please enable JavaScript to reveal my email address.</noscript>
+<script src="/assets/email-reveal.js" defer></script>
 
 ## Posts
 
